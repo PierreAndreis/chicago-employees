@@ -2,6 +2,8 @@
 
 ### Coding exercise for DataTheorem by Pierre Ortega, August 2018
 
+#### [Live demo](https://chicago-employee-pierre-wzkrxzuxfx.now.sh)
+
 A responsive web app that list a directory of chicago employees given by an API.
 
 1.  The first screen is the list of all employees with only their first name, last name and title.
